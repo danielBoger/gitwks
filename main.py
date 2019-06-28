@@ -4,7 +4,7 @@ def main():
     return True
 
 a = main()
-x = 30
-y = 25
+x = 55
+y = 12
 
 print(sum(x,y))
