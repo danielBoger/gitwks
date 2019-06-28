@@ -1,4 +1,5 @@
 import sum
+import mult
 
 def main():
     return True
